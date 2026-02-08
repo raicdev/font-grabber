@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- 黒い丸の背景 -->
+  <circle cx="256" cy="256" r="256" fill="black"/>
+
+  <g fill="none" stroke="white" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" transform="translate(-24,0)">
+    <!-- F -->
+    <path d="M140 128 V384"/>
+    <path d="M140 128 H276"/>
+    <path d="M140 256 H248"/>
+
+    <!-- G -->
+    <!-- open circular stroke -->
+    <path d="M420 176 A120 120 0 1 0 420 336"/>
+    <!-- G bars -->
+    <path d="M420 336 H468"/>
+    <path d="M402 256 H468"/>
+  </g>
+</svg>
