@@ -8,7 +8,7 @@ export default function Logo({ className }: { className?: string }) {
     >
       <circle cx="256" cy="256" r="256" className="fill-muted/40" />
       <g
-        className="fill-none stroke-white"
+        className="fill-none stroke-black dark:stroke-white"
         strokeWidth="56"
         strokeLinecap="round"
         strokeLinejoin="round"
